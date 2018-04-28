@@ -1,2 +1,2 @@
-Copyright (c) 2017, University College London
+Copyright (c) 2018, University College London
 All rights reserved.
